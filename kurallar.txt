@@ -1,0 +1,4 @@
+Bu uygulamada, kisi once bir karakter ismi vererek kendi karakterini olusturur. Daha sonrasinda butcesi ile karsilayabildigi 
+konteyner turlerinden birini secer. Kullanicinin onune secilen turde konteynerlar gelir. Konteynerlar alinmadan once sadece 
+bazi esyalarin isim ve fiyati gorunebilir. Alinan Konteynerlarin icinden cikan esyalar satilabilir ya da saklanabilir. 
+Cikan esyalarin fiyati konteynerin turune baglidir.
