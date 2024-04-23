@@ -1,1 +1,1 @@
-[Sınıf Dosyası][Siniflar.cpp]
+[Sınıf Dosyası](Siniflar.cpp)
